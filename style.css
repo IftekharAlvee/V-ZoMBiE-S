@@ -1,0 +1,14 @@
+
+
+.logo-img{
+    margin: 10px auto;
+}
+/* hr */
+hr{
+    
+  }
+  /* break-word */
+  .break-word{
+    overflow: auto;
+    overflow-wrap: break-word;
+  }
